@@ -1,5 +1,5 @@
 # test-git-command
 
 ## Hello! 
-## I working about git comman right now
+## I working about git command right now
 ## I made to change
